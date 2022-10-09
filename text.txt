@@ -1,0 +1,15 @@
+Host: learnbitrix.ru
+Date: 2022-09-18 17:01:14
+array (
+  0 => '13',
+  1 => NULL,
+)
+#0: include(string)
+	/home/c/ci83710/bitrixx/public_html/bitrix/modules/main/classes/general/component.php:607
+#1: CBitrixComponent->__includeComponent
+	/home/c/ci83710/bitrixx/public_html/bitrix/modules/main/classes/general/component.php:684
+#2: CBitrixComponent->includeComponent
+	/home/c/ci83710/bitrixx/public_html/bitrix/modules/main/classes/general/main.php:1072
+#3: CAllMain->IncludeComponent
+	/home/c/ci83710/bitrixx/public_html/ex2/simplecomp/index.php:15
+----------
